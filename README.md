@@ -1,2 +1,2 @@
 # TWatch-Toit
-A Toit implementation LilyGo T-Watch 2020
+A Toit implementation for LilyGo T-Watch 2020
