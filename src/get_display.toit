@@ -11,7 +11,7 @@ get-display -> PixelDisplay:
   device := bus.device
     --cs=gpio.Pin 5
     --dc=gpio.Pin 27
-    --frequency=20_000_000
+    --frequency=32_000_000
 
   driver := ColorTft device 240 240
     --reset=null
